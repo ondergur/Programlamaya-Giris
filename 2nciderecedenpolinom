@@ -1,0 +1,6 @@
+a = input("a sayısını giriniz: ")
+b = input("b sayısını giriniz: ")
+c = input("c sayısını giriniz: ")
+
+sonuc = ((int(a)*int(a))+(int(b)*int(b))+(3*int(c)))
+print(sonuc)
